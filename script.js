@@ -28,18 +28,34 @@
 /* variable mutation and type coercion
 */
 
-var firstName = 'John';
-var age = 20;
-// so in type coercion the number is automatically converted to a string so that it
-// it can be displayed as a sting in the console 
-// in other languages like java we need to change number to string in order to change
-// print it to the page or something
-console.log(firstName + ' ' + age)
+// var firstName = 'John';
+// var age = 20;
+// // so in type coercion the number is automatically converted to a string so that it
+// // it can be displayed as a sting in the console 
+// // in other languages like java we need to change number to string in order to change
+// // print it to the page or something
+// console.log(firstName + ' ' + age)
 
-var job, isMarried;
-job = 'teacher';
-isMarried = false
+// var job, isMarried;
+// job = 'teacher';
+// isMarried = false
 
-console.log(`${firstName} is of ${age} and he is a ${job}. is he married ? ${isMarried}`)
+// console.log(`${firstName} is of ${age} and he is a ${job}. is he married ? ${isMarried}`)
+
+// // variable mutation 
+
+// age = 'twenty eight';
+// job = 'driver'
+// alert(`${firstName} is of ${age} and he is a ${job}. is he married ? ${isMarried}`)
+
+
+// var name = prompt("what is your name ")
+// alert(name)
+
+
+
+
+// basic operators //
+
 
 
